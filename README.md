@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @AkshatTamrakar
+- 👋 Hi, I’m @Akshat Ku. Tamrakar
 - 👀 I’m interested in Ethical Hacking 
 - 🌱 I’m currently learning C Language, HTML, CSS, JavaScript and Python.
