@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Akshat Ku. Tamrakar
-- 👀 I’m interested in Ethical Hacking 
+- 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning C Language, HTML, CSS, JavaScript and Python.
